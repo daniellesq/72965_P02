@@ -1,3 +1,6 @@
 ## Practica 02_Metodo Montecarlo para calcular pi
 
-- Implemetar el metodo montecarlo con Java
+## Métricas de Rendimiento
+- **Secuencial**: 46ms  
+- **Paralelo**: 31ms  
+- **Procesadores**: 2
